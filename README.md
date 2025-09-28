@@ -141,7 +141,7 @@ This sample data is perfect for testing and demonstration purposes.
 
 ## Future Enhancements
 
-Some ideas for future improvments:
+Some ideas for future improvements:
 
 - Database integration (PostgreSQL, SQLite)
 - User authentication and authorizaton
