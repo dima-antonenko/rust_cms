@@ -26,6 +26,7 @@ impl Store {
 
     /// Initializes the store with some sample data
     /// This is useful for demonstration and testing purposes
+    /// Creates categories, products, blog posts with realistic content
     pub fn init_with_sample_data(&self) {
         // Create sample categories
         let electronics = Category::new(
