@@ -1,8 +1,0 @@
-Screenshots will be added here.
-
-To generate screenshots:
-1. Run the application: cargo run
-2. Open http://127.0.0.1:3000 in your browser
-3. Take screenshots of different pages
-4. Save them in this directory
-

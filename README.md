@@ -164,16 +164,44 @@ This project is open source and available under the MIT License.
 ## Screenshots
 
 ### Admin Dashboard
+The main dashboard shows an overvew of your CMS with quick statistics.
+
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
-### Product Management
-![Product Management](screenshots/products.png)
+### Product Categories Management
+Manage your product categories with ease.
 
-### Public Shop
-![Shop Page](screenshots/shop.png)
+![Product Categories](screenshots/admin-product-categories.png)
 
-### Blog
-![Blog Page](screenshots/blog.png)
+### Products Management
+Add, edit and remove products from your catalog.
+
+![Products Management](screenshots/admin-products.png)
+
+### Blog Categories Management
+Organize your blog content with categories.
+
+![Blog Categories](screenshots/admin-blog-categories.png)
+
+### Blog Posts Management
+Create and publish blog posts effortlesly.
+
+![Blog Posts](screenshots/admin-posts.png)
+
+### Public Shop Page
+Customers can browse all availabe products.
+
+![Shop Page](screenshots/site-products.png)
+
+### Public Blog Page
+Readers can explore published articles.
+
+![Blog Page](screenshots/site-posts.png)
+
+### Individual Blog Post
+Full article view with clean reading experiance.
+
+![Blog Post](screenshots/site-post.png)
 
 ## Acknowledgments
 
